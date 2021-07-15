@@ -1,0 +1,48 @@
+body {
+    background-color: steelblue;
+}
+
+.main {
+    background-color: white;
+    margin: 30px 40px 30px 40px;
+    border-radius: 8px;
+}
+
+.indent {
+    margin-left: 25px;
+}
+
+.indent-test {
+    padding-top: 50px;
+    margin: 0px 0px 0px 25px;
+
+}
+
+.w-250 {
+    width: 250px;
+}
+
+.mrg-left {
+    margin-left: 35px;
+}
+
+.button-sort-name {
+    margin-bottom: 12px;
+    margin-top: 33px;
+}
+
+.button-sort-value {
+    margin-bottom: 17px;
+}
+
+.button-delate {
+    margin-bottom: 17px;
+}
+
+.buttons-block {
+    display: inline-block
+}
+
+.textarea-block {
+    display: flex
+}
